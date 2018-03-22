@@ -1,0 +1,26 @@
+'''
+
+NO     992                                                                      
+YES      8                                                                      
+Name: JJ, dtype: int64
+
+NO     948                                                                      
+YES     52                                                                      
+Name: SCH_STATUS_MAGNET, dtype: int64 
+        
+Majority of schools in this data is not a Juvenile school or a Magnet School. Althought there are a lot more Magnet schools than Juves.
+
+
+     TOT_ENR_F  TOT_ENR_M                                                       
+JJ                                                                              
+NO      252915     266702                                                       
+YES         71        427                                                       
+
+Based on our data , much more Men are enrolled in a juvenile school than Women.
+
+                    TOT_ENR_F  TOT_ENR_M                                         
+SCH_STATUS_MAGNET                                                               
+NO                    232487     245629                                         
+YES                    20499      21500                                                     
+                   
+Magnet Schools appears to be split reltively evenly between Men and Women.              
